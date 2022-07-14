@@ -11,8 +11,9 @@ This text is added for feature 1 in 1st commit.
 (feature 1: commit 1)
 
 We will create merge request 
-on feature-1 from now on
-And create branch feature-2 from it.
+on feature-1 from now on, then we will fork feature-1
+(that means create branch feature-2 from it).
+But once we will fix some code in feature-1 - we'll get conflict.
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 This text is added for feature 2 in 1st commit.
 It will not be conflicted, because

@@ -10,6 +10,6 @@ Hopefully, we'll think of something.
 This text is added for feature 1 in 1st commit.
 (feature 1: commit 1)
 
-We will create merge request 
-on feature-1 from now on
+We will create merge request    |   FIX ON MERGE #1!
+on feature-1 from now on        |   Let's spawn conflict!
 And create branch feature-2 from it.

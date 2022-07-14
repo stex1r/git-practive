@@ -4,5 +4,8 @@ basic text.
 It will be used to test
 git strategies.
 
+Some feature-1 code
+which will cause us a lot of problems later.
+One more line.
 
 Hopefully, we'll think of something.

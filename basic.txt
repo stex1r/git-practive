@@ -4,11 +4,11 @@ basic text.
 It will be used to test
 git strategies.
 
-Some feature-1 code
+Some feature-1 code (fixed on pull request for now!)
 which will cause us a lot of problems later.
-One more line.
 
 Hopefully, we'll think of something.
 
 Now we'll test the point from where we'll create new 
 branch!
+Hmhmhmhm

@@ -1,0 +1,8 @@
+This is some
+basic text.
+
+It will be used to test
+git strategies.
+
+
+Hopefully, we'll think of something.

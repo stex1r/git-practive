@@ -5,10 +5,12 @@ It will be used to test
 git strategies.
 
 Some feature-1 code
+and some added feature-2 code too!
 which will cause us a lot of problems later.
 One more line.
 
-Hopefully, we'll think of something.
+Hopefully, we'll think of something. Let's see how it will be after merge fix.
+
 
 Now we'll test the point from where we'll create new 
 branch!
